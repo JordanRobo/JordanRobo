@@ -1,8 +1,15 @@
 # Hello there! 👋
 
-I'm Jordan, a budding Fullstack Developer on a journey to master the intricacies of web development. I have a background in marketing and a passion for creating immersive experiences, both digitally and through storytelling.
+I'm Jordan, a budding Fullstack Developer on a journey to master the intricacies of web and software development. With a diverse background that spans marketing, cinematography, graphic design, and photography, I bring a unique blend of creativity and technical skill to my projects.
 
 ## 🌱 What I'm Learning
+
+- **Python**: Exploring data manipulation, automation, and web development.
+- **HTML & CSS**: Building the foundation for web design and front-end development.
+- **JavaScript & TypeScript**: Enhancing web interactivity and building robust applications.
+- **C#, C++, LLM's and Java**: Planning to dive into these languages to broaden my programming skills.
+
+## 👨‍💻 My Current Stack
 
 - **SvelteKit**: A new and exciting framework for building web applications with Svelte.
 - **Node.JS**: The powerhouse behind many modern web apps and APIs.
@@ -10,7 +17,7 @@ I'm Jordan, a budding Fullstack Developer on a journey to master the intricacies
 
 ## 💼 Professional Background
 
-I currently work as a Marketing Manager for **Ray White Preston, Northcote & Reservoir** in Melbourne, Australia. My experience in marketing gives me a unique perspective on user experience and the importance of seamless web design.
+I formerly worked as a Marketing Manager and have extensive experience in Cinematography, Graphic Design, and Photography. These roles have honed my eye for detail and my understanding of user experience, which I now apply to the field of Information Technology and Programming.
 
 ## 🎲 Fun Facts
 
@@ -21,6 +28,5 @@ I currently work as a Marketing Manager for **Ray White Preston, Northcote & Res
 
 - [LinkedIn](www.linkedin.com/in/jordancr)
 - [Email](jordanjorbo11@gmail.com)
-
 
 Thank you for stopping by my GitHub profile. Feel free to explore my repositories, and if you see something that interests you or have any suggestions, I'd love to hear from you!
