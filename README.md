@@ -13,7 +13,7 @@ I'm Jordan, a budding Fullstack Developer on a journey to master the intricacies
 
 - **SvelteKit**: A new and exciting framework for building web applications with Svelte.
 - **Node.JS**: The powerhouse behind many modern web apps and APIs.
-- **Firebase**: Scalable cloud solutions for authentication, databases, and more.
+- **Firebase & Google Cloud Platform**: Scalable cloud solutions for authentication, databases, and more.
 
 ## 💼 Professional Background
 
