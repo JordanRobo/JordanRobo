@@ -7,13 +7,17 @@ I'm Jordan, a budding Fullstack Developer on a journey to master the intricacies
 - **Python**: Exploring data manipulation, automation, and web development.
 - **HTML & CSS**: Building the foundation for web design and front-end development.
 - **JavaScript & TypeScript**: Enhancing web interactivity and building robust applications.
-- **C#, C++, LLM's and Java**: Planning to dive into these languages to broaden my programming skills.
+- **C++, LLM's and Java**: Planning to dive into these languages and tech to broaden my programming skills.
 
 ## 👨‍💻 My Current Stack
 
 - **SvelteKit**: A new and exciting framework for building web applications with Svelte.
-- **Node.JS**: The powerhouse behind many modern web apps and APIs.
+- **Next.js**: A powerful React framework for building server-rendered and static web applications.
+- **React**: A widely used JavaScript library for building user interfaces.
+- **Node.js**: The powerhouse behind many modern web apps and APIs.
 - **Firebase & Google Cloud Platform**: Scalable cloud solutions for authentication, databases, and more.
+- **C#**: A versatile programming language commonly used for building desktop, web, and mobile applications.
+- **Supabase**: An open-source alternative to Firebase, providing real-time databases and APIs for building scalable applications.
 
 ## 💼 Professional Background
 
