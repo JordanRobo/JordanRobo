@@ -5,32 +5,26 @@ I'm Jordan, a budding Fullstack Developer on a journey to master the intricacies
 ## 🌱 What I'm Learning
 
 - **Python**: Exploring data manipulation, automation, and web development.
-- **HTML & CSS**: Building the foundation for web design and front-end development.
 - **JavaScript & TypeScript**: Enhancing web interactivity and building robust applications.
 - **C++, LLM's and Java**: Planning to dive into these languages and tech to broaden my programming skills.
+- **Next.js**: A powerful React framework for building server-rendered and static web applications.
+- **React**: A widely used JavaScript library for building user interfaces.
+- **Rust**: A versatile programming language commonly used for building desktop, web, and mobile applications.
 
 ## 👨‍💻 My Current Stack
 
 - **SvelteKit**: A new and exciting framework for building web applications with Svelte.
-- **Next.js**: A powerful React framework for building server-rendered and static web applications.
-- **React**: A widely used JavaScript library for building user interfaces.
-- **Node.js**: The powerhouse behind many modern web apps and APIs.
-- **Firebase & Google Cloud Platform**: Scalable cloud solutions for authentication, databases, and more.
-- **C#**: A versatile programming language commonly used for building desktop, web, and mobile applications.
+- **Bun**: A new JavaScript runtime built from scratch to serve the modern JavaScript ecosystem.
 - **Supabase**: An open-source alternative to Firebase, providing real-time databases and APIs for building scalable applications.
 
 ## 💼 Professional Background
 
 I formerly worked as a Marketing Manager and have extensive experience in Cinematography, Graphic Design, and Photography. These roles have honed my eye for detail and my understanding of user experience, which I now apply to the field of Information Technology and Programming.
 
-## 🎲 Fun Facts
-
-- I can talk about D&D 5e and filmmaking for hours.
-- Passionate about D&D 5e campaign and world building. If you ever want to dive deep into a discussion on this, hit me up!
 
 ## 📫 How to Reach Me
 
 - [LinkedIn](www.linkedin.com/in/jordancr)
-- [Email](jordanjorbo11@gmail.com)
+- [Email](jordan@stateot.art)
 
 Thank you for stopping by my GitHub profile. Feel free to explore my repositories, and if you see something that interests you or have any suggestions, I'd love to hear from you!
