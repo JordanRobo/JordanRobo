@@ -1,29 +1,40 @@
-# Hello there! 👋
+# 👋 Hello, World! I'm Jordan
 
-I'm Jordan, a budding Fullstack Developer on a journey to master the intricacies of web and software development. With a diverse background that spans marketing, cinematography, graphic design, and photography, I bring a unique blend of creativity and technical skill to my projects.
+I'm a self-taught developer with a passion for learning and using code to make life more efficient. My journey into programming started in my late 20s, but my background in Marketing and Bartending has given me a unique perspective on problem-solving and understanding user needs.
 
-## 🌱 What I'm Learning
+## 🚀 Current Focus
 
-- **Python**: Exploring data manipulation, automation, and web development.
-- **JavaScript & TypeScript**: Enhancing web interactivity and building robust applications.
-- **C++, LLM's and Java**: Planning to dive into these languages and tech to broaden my programming skills.
-- **Next.js**: A powerful React framework for building server-rendered and static web applications.
-- **React**: A widely used JavaScript library for building user interfaces.
+- Learning embedded software with Rust
+- Exploring databases and SQL
+- Diving deep into backend systems
 
-## 👨‍💻 My Current Stack
+## 💻 Tech Stack
 
-- **SvelteKit**: A new and exciting framework for building web applications with Svelte.
-- **Bun**: A new JavaScript runtime built from scratch to serve the modern JavaScript ecosystem.
-- **Rust**: A versatile programming language commonly used for building desktop, web, and mobile applications.
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Bun](https://img.shields.io/badge/-Bun-000000?style=flat&logo=bun&logoColor=white)
 
-## 💼 Professional Background
+## 🌟 Featured Project
 
-I formerly worked as a Marketing Manager and have extensive experience in Cinematography, Graphic Design, and Photography. These roles have honed my eye for detail and my understanding of user experience, which I now apply to the field of Information Technology and Programming.
+[Mercury CMS](https://github.com/JordanRobo/Mercury) - A blazingly fast content management system built with Rust and SvelteKit.
 
+## 📚 Philosophy
 
-## 📫 How to Reach Me
+> "An idiot admires complexity, a genius admires simplicity" - Terry Davis
 
-- [LinkedIn](www.linkedin.com/in/jordancr)
-- [Email](hello.world@jordanrobo.xyz)
+I believe in learning programming the hard way to gain a deeper understanding. Check out this video that resonates with my approach: [Why You Should Learn To Program The Hard Way](https://www.youtube.com/watch?v=Qf56xUKbx24&t=0s)
 
-Thank you for stopping by my GitHub profile. Feel free to explore my repositories, and if you see something that interests you or have any suggestions, I'd love to hear from you!
+## 🤝 Let's Connect
+
+I'm always open to new opportunities and exciting projects. Feel free to reach out!
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hello.world@jordanrobo.xyz)
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=safari&logoColor=white)](https://jordanrobo.xyz)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jordanrobo)
+
+---
+
+💡 Fun Fact: My experience in Marketing and Bartending has taught me that the best solutions come from truly understanding people and their problems. This insight drives my approach to coding and problem-solving in tech!
