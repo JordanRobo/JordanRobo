@@ -27,7 +27,7 @@ I'm a self-taught developer with a passion for learning and using code to make l
 
 I believe in learning programming the hard way to gain a deeper understanding. Check out this video that resonates with my approach: [Why You Should Learn To Program The Hard Way](https://www.youtube.com/watch?v=Qf56xUKbx24&t=0s)
 
-📝 Latest Blog Posts
+## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
