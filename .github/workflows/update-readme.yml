@@ -12,6 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.PAT }}
       - uses: actions/setup-node@v2
         with:
           node-version: '14'
@@ -27,3 +29,5 @@ jobs:
           git add -A
           git commit -m "Updated README with latest blog posts" || exit 0
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
