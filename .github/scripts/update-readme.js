@@ -16,7 +16,7 @@ async function main() {
     let readmeContent = await fs.readFile(README_PATH, 'utf8');
 
     // Generate the new blog post list
-    const blogPostList = posts.map(post => `- [${post.title}](https://jordanrobo.xyz/blog/${post.slug})`).join('\n');
+    const blogPostList = posts.map(post => `- [${post.title}](https://jordanrobo.xyz/posts/${post.slug})`).join('\n');
 
     // Replace the existing blog post list
     const newReadmeContent = readmeContent.replace(
