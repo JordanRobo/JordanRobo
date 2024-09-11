@@ -29,9 +29,9 @@ I believe in learning programming the hard way to gain a deeper understanding. C
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Forms Follow Function](https://jordanrobo.xyz/posts/forms-follow-function)
 - [It All Starts With a Plan](https://jordanrobo.xyz/posts/it-all-starts-with-a-plan)
 - [A Blazingly Fast CMS](https://jordanrobo.xyz/posts/a-blazingly-fast-cms)
-- [What is the best CMS in 2024?](https://jordanrobo.xyz/posts/what-is-the-best-cms-in-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Let's Connect
