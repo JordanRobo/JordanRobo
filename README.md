@@ -29,9 +29,9 @@ I believe in learning programming the hard way to gain a deeper understanding. C
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Goodbye DigitalOcean](https://jordanrobo.xyz/posts/goodbye-digitalocean)
 - [How to Embed Your Sveltekit UI Into Your Rust Binary](https://jordanrobo.xyz/posts/embed-sveltekit-into-rust)
 - [It All Starts With a Plan](https://jordanrobo.xyz/posts/it-all-starts-with-a-plan)
-- [A Blazingly Fast CMS](https://jordanrobo.xyz/posts/a-blazingly-fast-cms)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Let's Connect
